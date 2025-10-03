@@ -1,0 +1,11 @@
+<html lang="en">
+    <head>
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+        <title>Links</title>
+    </head>
+    <body>
+        <a href="https://uab.cat"
+        target="_blank">UAB</a>
+    </body>
+</html>
