@@ -1,0 +1,7 @@
+let taula = [23, 45, 98, 73];
+
+suma = taula[0] + taula[2];
+
+taula[6] = suma;
+
+console.log(taula);
